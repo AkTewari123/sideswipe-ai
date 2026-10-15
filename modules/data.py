@@ -2,10 +2,8 @@ import math
 
 
 def _joystick_action(detections):
-    print("Calculating joystick action...")
     names = detections.data["class_name"]
     joy_center = None
-    print("names: ", names)
     for i, n in enumerate(names):
         if n == "joystick":
             print(f"Found joystick at index {i}")
@@ -14,7 +12,7 @@ def _joystick_action(detections):
     if joy_center is None:
         return [0.0, 0.0, 0.0]
     ang = find_joystick_angle(joy_center)
-    print(f"joystick angle: {ang}")
+    print(f"_joystick_action: joystick angle: {ang}")
     if ang is None:
         return [0.0, 0.0, 0.0]
     return [1.0, math.sin(ang), math.cos(ang)]
