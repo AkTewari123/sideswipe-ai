@@ -1,0 +1,287 @@
+FLAG: velocity flagged: mininum speed not met - vx: 0.0, vy: 0.0, speed: 0.0,  For observation number: 0 
+For observation number: 1 
+For observation number: 2 
+For observation number: 3 
+For observation number: 4 
+For observation number: 5 
+For observation number: 6 
+For observation number: 7 
+FLAG: missing jump indicator,  For observation number: 8 
+FLAG: missing boost indicator,  For observation number: 9 
+FLAG: missing boost indicator,  For observation number: 10 
+FLAG: missing boost indicator,  For observation number: 11 
+FLAG: missing boost indicator,  For observation number: 12 
+For observation number: 13 
+For observation number: 14 
+For observation number: 15 
+For observation number: 16 
+FLAG: cars=1 (expected 2),  FLAG: missing jump indicator,  For observation number: 17 
+FLAG: cars=1 (expected 2),  For observation number: 18 
+FLAG: cars=1 (expected 2),  For observation number: 19 
+For observation number: 20 
+For observation number: 21 
+For observation number: 22 
+For observation number: 23 
+For observation number: 24 
+For observation number: 25 
+For observation number: 26 
+For observation number: 27 
+For observation number: 28 
+FLAG: velocity flagged: mininum speed not met - vx: 0.1321375644615274, vy: -0.143717068659847, speed: 0.19523045808992892,  For observation number: 29 
+For observation number: 30 
+For observation number: 31 
+For observation number: 32 
+For observation number: 33 
+For observation number: 34 
+FLAG: cars=3 (expected 2),  FLAG: missing boost indicator,  For observation number: 35 
+FLAG: missing boost indicator,  FLAG: velocity flagged: mininum speed not met - vx: -0.14935858675984756, vy: -0.03367178723320315, speed: 0.15310707591217662,  For observation number: 36 
+For observation number: 37 
+FLAG: missing boost indicator,  For observation number: 38 
+FLAG: missing boost indicator,  For observation number: 39 
+FLAG: missing boost indicator,  For observation number: 40 
+FLAG: cars=1 (expected 2),  For observation number: 41 
+FLAG: cars=1 (expected 2),  For observation number: 42 
+FLAG: cars=1 (expected 2),  For observation number: 43 
+FLAG: cars=1 (expected 2),  For observation number: 44 
+For observation number: 45 
+For observation number: 46 
+For observation number: 47 
+FLAG: missing boost indicator,  For observation number: 48 
+FLAG: missing boost indicator,  For observation number: 49 
+For observation number: 50 
+For observation number: 51 
+For observation number: 52 
+For observation number: 53 
+For observation number: 54 
+For observation number: 55 
+For observation number: 56 
+For observation number: 57 
+FLAG: missing boost indicator,  For observation number: 58 
+For observation number: 59 
+For observation number: 60 
+FLAG: missing boost indicator,  For observation number: 61 
+For observation number: 62 
+For observation number: 63 
+For observation number: 64 
+For observation number: 65 
+For observation number: 66 
+FLAG: balls=2 (expected 1),  For observation number: 67 
+FLAG: balls=2 (expected 1),  For observation number: 68 
+FLAG: balls=2 (expected 1),  For observation number: 69 
+FLAG: balls=2 (expected 1),  For observation number: 70 
+FLAG: balls=2 (expected 1),  For observation number: 71 
+FLAG: balls=2 (expected 1),  For observation number: 72 
+FLAG: balls=2 (expected 1),  For observation number: 73 
+FLAG: balls=2 (expected 1),  For observation number: 74 
+FLAG: balls=2 (expected 1),  For observation number: 75 
+FLAG: balls=2 (expected 1),  For observation number: 76 
+FLAG: balls=2 (expected 1),  For observation number: 77 
+FLAG: balls=2 (expected 1),  FLAG: joysticks=0 (expected 1),  For observation number: 78 
+FLAG: cars=3 (expected 2),  FLAG: balls=2 (expected 1),  For observation number: 79 
+FLAG: balls=2 (expected 1),  For observation number: 80 
+FLAG: balls=2 (expected 1),  For observation number: 81 
+FLAG: balls=2 (expected 1),  For observation number: 82 
+FLAG: cars=3 (expected 2),  FLAG: balls=2 (expected 1),  For observation number: 83 
+FLAG: balls=2 (expected 1),  For observation number: 84 
+For observation number: 85 
+For observation number: 86 
+FLAG: balls=2 (expected 1),  For observation number: 87 
+For observation number: 88 
+For observation number: 89 
+For observation number: 90 
+FLAG: balls=2 (expected 1),  For observation number: 91 
+FLAG: balls=2 (expected 1),  For observation number: 92 
+FLAG: balls=2 (expected 1),  For observation number: 93 
+FLAG: balls=2 (expected 1),  For observation number: 94 
+FLAG: balls=2 (expected 1),  For observation number: 95 
+FLAG: balls=2 (expected 1),  For observation number: 96 
+FLAG: balls=2 (expected 1),  For observation number: 97 
+For observation number: 98 
+FLAG: balls=2 (expected 1),  For observation number: 99 
+FLAG: balls=2 (expected 1),  For observation number: 100 
+For observation number: 101 
+FLAG: balls=2 (expected 1),  For observation number: 102 
+For observation number: 103 
+For observation number: 104 
+For observation number: 105 
+For observation number: 106 
+FLAG: cars=3 (expected 2),  For observation number: 107 
+For observation number: 108 
+FLAG: balls=3 (expected 1),  For observation number: 109 
+For observation number: 110 
+For observation number: 111 
+For observation number: 112 
+For observation number: 113 
+FLAG: joysticks=2 (expected 1),  For observation number: 114 
+FLAG: joysticks=2 (expected 1),  For observation number: 115 
+FLAG: cars=1 (expected 2),  FLAG: missing jump indicator,  FLAG: joysticks=2 (expected 1),  For observation number: 116 
+FLAG: cars=1 (expected 2),  FLAG: balls=2 (expected 1),  For observation number: 117 
+FLAG: cars=1 (expected 2),  FLAG: balls=2 (expected 1),  For observation number: 118 
+FLAG: balls=2 (expected 1),  For observation number: 119 
+FLAG: balls=2 (expected 1),  For observation number: 120 
+FLAG: balls=2 (expected 1),  For observation number: 121 
+FLAG: balls=2 (expected 1),  For observation number: 122 
+FLAG: balls=2 (expected 1),  For observation number: 123 
+FLAG: balls=2 (expected 1),  For observation number: 124 
+FLAG: balls=2 (expected 1),  For observation number: 125 
+FLAG: balls=2 (expected 1),  For observation number: 126 
+FLAG: balls=2 (expected 1),  For observation number: 127 
+FLAG: balls=2 (expected 1),  For observation number: 128 
+FLAG: balls=2 (expected 1),  For observation number: 129 
+FLAG: balls=2 (expected 1),  For observation number: 130 
+FLAG: balls=2 (expected 1),  For observation number: 131 
+FLAG: balls=2 (expected 1),  For observation number: 132 
+FLAG: balls=2 (expected 1),  For observation number: 133 
+FLAG: balls=2 (expected 1),  For observation number: 134 
+FLAG: balls=2 (expected 1),  For observation number: 135 
+FLAG: balls=2 (expected 1),  For observation number: 136 
+FLAG: balls=2 (expected 1),  For observation number: 137 
+FLAG: balls=2 (expected 1),  For observation number: 138 
+FLAG: balls=2 (expected 1),  For observation number: 139 
+FLAG: balls=2 (expected 1),  For observation number: 140 
+FLAG: balls=2 (expected 1),  For observation number: 141 
+FLAG: balls=2 (expected 1),  For observation number: 142 
+FLAG: balls=2 (expected 1),  For observation number: 143 
+FLAG: balls=2 (expected 1),  For observation number: 144 
+FLAG: balls=2 (expected 1),  For observation number: 145 
+FLAG: balls=2 (expected 1),  For observation number: 146 
+FLAG: balls=2 (expected 1),  For observation number: 147 
+FLAG: balls=2 (expected 1),  For observation number: 148 
+FLAG: balls=2 (expected 1),  For observation number: 149 
+FLAG: balls=2 (expected 1),  For observation number: 150 
+FLAG: balls=2 (expected 1),  For observation number: 151 
+FLAG: balls=2 (expected 1),  For observation number: 152 
+FLAG: balls=2 (expected 1),  For observation number: 153 
+FLAG: balls=2 (expected 1),  For observation number: 154 
+FLAG: balls=2 (expected 1),  For observation number: 155 
+FLAG: balls=2 (expected 1),  For observation number: 156 
+FLAG: balls=2 (expected 1),  For observation number: 157 
+FLAG: balls=2 (expected 1),  For observation number: 158 
+FLAG: balls=2 (expected 1),  FLAG: joysticks=0 (expected 1),  For observation number: 159 
+FLAG: balls=2 (expected 1),  For observation number: 160 
+FLAG: balls=2 (expected 1),  For observation number: 161 
+FLAG: balls=2 (expected 1),  For observation number: 162 
+FLAG: balls=2 (expected 1),  For observation number: 163 
+FLAG: balls=2 (expected 1),  For observation number: 164 
+FLAG: balls=2 (expected 1),  For observation number: 165 
+FLAG: balls=2 (expected 1),  For observation number: 166 
+FLAG: balls=2 (expected 1),  For observation number: 167 
+FLAG: balls=2 (expected 1),  For observation number: 168 
+FLAG: balls=2 (expected 1),  For observation number: 169 
+FLAG: balls=2 (expected 1),  For observation number: 170 
+FLAG: balls=2 (expected 1),  For observation number: 171 
+FLAG: balls=2 (expected 1),  For observation number: 172 
+FLAG: cars=3 (expected 2),  FLAG: balls=2 (expected 1),  For observation number: 173 
+FLAG: balls=2 (expected 1),  For observation number: 174 
+FLAG: balls=2 (expected 1),  For observation number: 175 
+FLAG: balls=2 (expected 1),  For observation number: 176 
+FLAG: balls=2 (expected 1),  For observation number: 177 
+FLAG: balls=2 (expected 1),  For observation number: 178 
+FLAG: balls=2 (expected 1),  For observation number: 179 
+FLAG: balls=2 (expected 1),  For observation number: 180 
+FLAG: balls=2 (expected 1),  For observation number: 181 
+FLAG: balls=2 (expected 1),  For observation number: 182 
+FLAG: balls=2 (expected 1),  For observation number: 183 
+FLAG: balls=2 (expected 1),  For observation number: 184 
+FLAG: balls=2 (expected 1),  For observation number: 185 
+FLAG: balls=2 (expected 1),  For observation number: 186 
+FLAG: balls=2 (expected 1),  For observation number: 187 
+FLAG: balls=2 (expected 1),  For observation number: 188 
+FLAG: balls=2 (expected 1),  For observation number: 189 
+FLAG: balls=2 (expected 1),  For observation number: 190 
+FLAG: balls=2 (expected 1),  For observation number: 191 
+FLAG: balls=2 (expected 1),  For observation number: 192 
+FLAG: balls=2 (expected 1),  For observation number: 193 
+FLAG: balls=2 (expected 1),  For observation number: 194 
+FLAG: balls=2 (expected 1),  For observation number: 195 
+FLAG: balls=2 (expected 1),  For observation number: 196 
+FLAG: balls=2 (expected 1),  For observation number: 197 
+FLAG: balls=2 (expected 1),  For observation number: 198 
+FLAG: balls=2 (expected 1),  For observation number: 199 
+FLAG: balls=2 (expected 1),  FLAG: joysticks=0 (expected 1),  For observation number: 200 
+FLAG: balls=2 (expected 1),  FLAG: joysticks=0 (expected 1),  For observation number: 201 
+FLAG: balls=2 (expected 1),  FLAG: joysticks=0 (expected 1),  For observation number: 202 
+FLAG: balls=2 (expected 1),  For observation number: 203 
+FLAG: balls=2 (expected 1),  For observation number: 204 
+FLAG: balls=2 (expected 1),  For observation number: 205 
+FLAG: joysticks=0 (expected 1),  For observation number: 206 
+For observation number: 207 
+FLAG: balls=2 (expected 1),  For observation number: 208 
+For observation number: 209 
+FLAG: balls=2 (expected 1),  FLAG: absurd velocity 56 on ball,  For observation number: 210 
+FLAG: missing boost indicator,  FLAG: absurd velocity 51 on ball,  For observation number: 211 
+FLAG: missing boost indicator,  For observation number: 212 
+FLAG: cars=1 (expected 2),  For observation number: 213 
+For observation number: 214 
+For observation number: 215 
+For observation number: 216 
+FLAG: missing boost indicator,  For observation number: 217 
+FLAG: missing boost indicator,  For observation number: 218 
+FLAG: cars=1 (expected 2),  For observation number: 219 
+FLAG: balls=0 (expected 1),  For observation number: 220 
+For observation number: 221 
+FLAG: cars=1 (expected 2),  For observation number: 222 
+FLAG: cars=1 (expected 2),  For observation number: 223 
+FLAG: cars=1 (expected 2),  For observation number: 224 
+For observation number: 225 
+FLAG: cars=1 (expected 2),  For observation number: 226 
+FLAG: cars=1 (expected 2),  For observation number: 227 
+For observation number: 228 
+For observation number: 229 
+For observation number: 230 
+For observation number: 231 
+For observation number: 232 
+FLAG: missing jump indicator,  For observation number: 233 
+FLAG: balls=2 (expected 1),  For observation number: 234 
+FLAG: cars=3 (expected 2),  FLAG: balls=2 (expected 1),  For observation number: 235 
+FLAG: balls=2 (expected 1),  For observation number: 236 
+FLAG: balls=2 (expected 1),  For observation number: 237 
+FLAG: balls=2 (expected 1),  For observation number: 238 
+FLAG: balls=2 (expected 1),  For observation number: 239 
+FLAG: balls=2 (expected 1),  For observation number: 240 
+FLAG: balls=2 (expected 1),  For observation number: 241 
+FLAG: balls=2 (expected 1),  For observation number: 242 
+FLAG: balls=2 (expected 1),  For observation number: 243 
+FLAG: balls=2 (expected 1),  For observation number: 244 
+FLAG: balls=2 (expected 1),  For observation number: 245 
+FLAG: balls=2 (expected 1),  For observation number: 246 
+FLAG: balls=2 (expected 1),  For observation number: 247 
+FLAG: balls=2 (expected 1),  For observation number: 248 
+FLAG: balls=2 (expected 1),  For observation number: 249 
+FLAG: balls=2 (expected 1),  For observation number: 250 
+FLAG: balls=2 (expected 1),  For observation number: 251 
+FLAG: balls=2 (expected 1),  For observation number: 252 
+FLAG: balls=2 (expected 1),  For observation number: 253 
+FLAG: balls=2 (expected 1),  For observation number: 254 
+FLAG: balls=2 (expected 1),  For observation number: 255 
+FLAG: balls=2 (expected 1),  For observation number: 256 
+FLAG: balls=2 (expected 1),  For observation number: 257 
+FLAG: balls=2 (expected 1),  For observation number: 258 
+FLAG: balls=2 (expected 1),  For observation number: 259 
+FLAG: balls=2 (expected 1),  For observation number: 260 
+FLAG: balls=2 (expected 1),  For observation number: 261 
+FLAG: balls=2 (expected 1),  For observation number: 262 
+FLAG: balls=2 (expected 1),  For observation number: 263 
+FLAG: balls=2 (expected 1),  For observation number: 264 
+FLAG: balls=2 (expected 1),  For observation number: 265 
+FLAG: balls=2 (expected 1),  For observation number: 266 
+FLAG: balls=2 (expected 1),  For observation number: 267 
+FLAG: balls=2 (expected 1),  For observation number: 268 
+FLAG: balls=2 (expected 1),  For observation number: 269 
+FLAG: balls=2 (expected 1),  For observation number: 270 
+FLAG: balls=2 (expected 1),  FLAG: joysticks=0 (expected 1),  For observation number: 271 
+FLAG: balls=2 (expected 1),  For observation number: 272 
+FLAG: balls=2 (expected 1),  For observation number: 273 
+FLAG: balls=2 (expected 1),  For observation number: 274 
+FLAG: balls=2 (expected 1),  For observation number: 275 
+FLAG: balls=2 (expected 1),  For observation number: 276 
+FLAG: balls=2 (expected 1),  For observation number: 277 
+FLAG: balls=2 (expected 1),  For observation number: 278 
+FLAG: balls=2 (expected 1),  For observation number: 279 
+FLAG: balls=2 (expected 1),  For observation number: 280 
+FLAG: joysticks=0 (expected 1),  For observation number: 281 
+FLAG: balls=2 (expected 1),  FLAG: joysticks=0 (expected 1),  For observation number: 282 
+FLAG: cars=1 (expected 2),  FLAG: joysticks=0 (expected 1),  For observation number: 283 
+FLAG: balls=0 (expected 1),  FLAG: joysticks=0 (expected 1),  For observation number: 284 
+FLAG: no_coords,  For observation number: 285 
+FLAG: no_coords,  For observation number: 286 

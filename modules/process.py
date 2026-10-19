@@ -63,6 +63,7 @@ def draw_coord_system(
     frame,
     detections,
     cleaned=None,
+    abs_center=(530, 1130),
     video="/923-1/",
     units_per_span=5.0,
     save=True,
@@ -155,6 +156,7 @@ def draw_coord_system(
         1,
     )
     cv2.circle(img, (int(ref2[0]), int(ref2[1])), 4, ref_color, -1)
+    cv2.circle(img, abs_center, 12, (255, 255, 0), -1)
     cv2.putText(
         img,
         "ref2",
