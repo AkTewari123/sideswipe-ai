@@ -99,9 +99,9 @@ FLAG: balls=2 (expected 1),  For observation number: 97
 FLAG: balls=2 (expected 1),  For observation number: 98 
 FLAG: balls=2 (expected 1),  For observation number: 99 
 FLAG: balls=2 (expected 1),  For observation number: 100 
-FLAG: balls=2 (expected 1),  FLAG: joysticks=0 (expected 1),  For observation number: 101 
-FLAG: balls=2 (expected 1),  FLAG: joysticks=0 (expected 1),  For observation number: 102 
-FLAG: balls=2 (expected 1),  FLAG: joysticks=0 (expected 1),  For observation number: 103 
+FLAG: joysticks=0 (expected 1),  FLAG: balls=2 (expected 1),  For observation number: 101 
+FLAG: joysticks=0 (expected 1),  FLAG: balls=2 (expected 1),  For observation number: 102 
+FLAG: joysticks=0 (expected 1),  FLAG: balls=2 (expected 1),  For observation number: 103 
 FLAG: balls=2 (expected 1),  For observation number: 104 
 FLAG: balls=2 (expected 1),  For observation number: 105 
 FLAG: balls=2 (expected 1),  For observation number: 106 

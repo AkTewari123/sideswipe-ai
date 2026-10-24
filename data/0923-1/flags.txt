@@ -187,16 +187,16 @@ FLAG: balls=2 (expected 1),  For observation number: 185
 FLAG: balls=2 (expected 1),  For observation number: 186 
 FLAG: balls=2 (expected 1),  For observation number: 187 
 FLAG: balls=2 (expected 1),  For observation number: 188 
-FLAG: balls=2 (expected 1),  FLAG: joysticks=0 (expected 1),  For observation number: 189 
+FLAG: joysticks=0 (expected 1),  FLAG: balls=2 (expected 1),  For observation number: 189 
 FLAG: balls=2 (expected 1),  For observation number: 190 
 FLAG: balls=2 (expected 1),  For observation number: 191 
-FLAG: balls=2 (expected 1),  FLAG: joysticks=0 (expected 1),  For observation number: 192 
-FLAG: balls=2 (expected 1),  FLAG: joysticks=0 (expected 1),  For observation number: 193 
-FLAG: balls=2 (expected 1),  FLAG: joysticks=0 (expected 1),  For observation number: 194 
-FLAG: balls=2 (expected 1),  FLAG: joysticks=0 (expected 1),  For observation number: 195 
-FLAG: balls=2 (expected 1),  FLAG: joysticks=0 (expected 1),  For observation number: 196 
+FLAG: joysticks=0 (expected 1),  FLAG: balls=2 (expected 1),  For observation number: 192 
+FLAG: joysticks=0 (expected 1),  FLAG: balls=2 (expected 1),  For observation number: 193 
+FLAG: joysticks=0 (expected 1),  FLAG: balls=2 (expected 1),  For observation number: 194 
+FLAG: joysticks=0 (expected 1),  FLAG: balls=2 (expected 1),  For observation number: 195 
+FLAG: joysticks=0 (expected 1),  FLAG: balls=2 (expected 1),  For observation number: 196 
 FLAG: balls=2 (expected 1),  For observation number: 197 
-FLAG: balls=2 (expected 1),  FLAG: joysticks=0 (expected 1),  For observation number: 198 
+FLAG: joysticks=0 (expected 1),  FLAG: balls=2 (expected 1),  For observation number: 198 
 FLAG: balls=2 (expected 1),  For observation number: 199 
 FLAG: balls=2 (expected 1),  For observation number: 200 
 FLAG: balls=2 (expected 1),  For observation number: 201 

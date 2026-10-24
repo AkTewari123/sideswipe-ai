@@ -1,8 +1,4 @@
-FLAG: balls=2 (expected 1),  FLAG: joysticks=0 (expected 1),  FLAG: velocity flagged: mininum speed not met - vx: 0.0, vy: 0.0, speed: 0.0,  For observation number: 0 
-FLAG: balls=2 (expected 1),  FLAG: joysticks=0 (expected 1),  FLAG: velocity flagged: mininum speed not met - vx: -0.09806725518463513, vy: -0.049387558294610445, speed: 0.10980126344333152,  For observation number: 1 
-FLAG: balls=2 (expected 1),  FLAG: joysticks=0 (expected 1),  For observation number: 2 
-FLAG: balls=2 (expected 1),  FLAG: joysticks=0 (expected 1),  For observation number: 3 
-FLAG: balls=2 (expected 1),  FLAG: joysticks=0 (expected 1),  For observation number: 4 
+FLAG: joysticks=0 (expected 1),  FLAG: balls=2 (expected 1),  For observation number: 4 
 FLAG: balls=2 (expected 1),  For observation number: 5 
 FLAG: balls=2 (expected 1),  For observation number: 6 
 FLAG: balls=2 (expected 1),  For observation number: 7 
@@ -65,14 +61,14 @@ FLAG: balls=2 (expected 1),  For observation number: 63
 FLAG: balls=2 (expected 1),  For observation number: 64 
 FLAG: balls=2 (expected 1),  For observation number: 65 
 FLAG: balls=2 (expected 1),  For observation number: 66 
-FLAG: balls=2 (expected 1),  FLAG: joysticks=0 (expected 1),  For observation number: 67 
+FLAG: joysticks=0 (expected 1),  FLAG: balls=2 (expected 1),  For observation number: 67 
 FLAG: balls=2 (expected 1),  For observation number: 68 
-FLAG: balls=2 (expected 1),  FLAG: joysticks=0 (expected 1),  For observation number: 69 
-FLAG: balls=2 (expected 1),  FLAG: joysticks=0 (expected 1),  For observation number: 70 
-FLAG: balls=2 (expected 1),  FLAG: joysticks=0 (expected 1),  For observation number: 71 
-FLAG: balls=2 (expected 1),  FLAG: joysticks=0 (expected 1),  For observation number: 72 
-FLAG: balls=2 (expected 1),  FLAG: joysticks=0 (expected 1),  For observation number: 73 
-FLAG: balls=2 (expected 1),  FLAG: joysticks=0 (expected 1),  For observation number: 74 
+FLAG: joysticks=0 (expected 1),  FLAG: balls=2 (expected 1),  For observation number: 69 
+FLAG: joysticks=0 (expected 1),  FLAG: balls=2 (expected 1),  For observation number: 70 
+FLAG: joysticks=0 (expected 1),  FLAG: balls=2 (expected 1),  For observation number: 71 
+FLAG: joysticks=0 (expected 1),  FLAG: balls=2 (expected 1),  For observation number: 72 
+FLAG: joysticks=0 (expected 1),  FLAG: balls=2 (expected 1),  For observation number: 73 
+FLAG: joysticks=0 (expected 1),  FLAG: balls=2 (expected 1),  For observation number: 74 
 FLAG: balls=2 (expected 1),  For observation number: 75 
 FLAG: balls=2 (expected 1),  For observation number: 76 
 For observation number: 77 
