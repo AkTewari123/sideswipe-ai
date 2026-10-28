@@ -59,6 +59,63 @@ def absolute_coords(
     return out
 
 
+def _draw_protractor(img, center, radius=400, color=(255, 255, 0), label_every=15):
+    """
+    Draw a 0-359 deg protractor around the joystick.
+    Same convention as the action vector: 0 = right, 90 = up, 180 = left, 270 = down
+    (angle = atan2(sin, cos); image y points down, so y is flipped).
+    """
+    import math
+    import cv2
+
+    cx, cy = int(center[0]), int(center[1])
+    cv2.circle(img, (cx, cy), radius, color, 2, cv2.LINE_AA)
+    cv2.circle(img, (cx, cy), 6, color, -1)
+
+    for deg in range(360):
+        a = math.radians(deg)
+        ca, sa = math.cos(a), -math.sin(a)  # flip y for image coords
+        if deg % label_every == 0:
+            tick = 40
+        elif deg % 5 == 0:
+            tick = 22
+        else:
+            tick = 10
+        p_out = (int(cx + radius * ca), int(cy + radius * sa))
+        p_in = (int(cx + (radius - tick) * ca), int(cy + (radius - tick) * sa))
+        cv2.line(img, p_in, p_out, color, 2 if tick > 10 else 1, cv2.LINE_AA)
+
+        if deg % label_every == 0:
+            # spoke from the centre for the labelled angles
+            cv2.line(img, (cx, cy), p_in, color, 1, cv2.LINE_AA)
+            text = str(deg)
+            scale, thick = 0.9, 2
+            (tw, th), _ = cv2.getTextSize(text, cv2.FONT_HERSHEY_SIMPLEX, scale, thick)
+            lr = radius - tick - 30  # label just inside the long tick
+            lx = int(cx + lr * ca - tw / 2)
+            ly = int(cy + lr * sa + th / 2)
+            cv2.putText(
+                img,
+                text,
+                (lx, ly),
+                cv2.FONT_HERSHEY_SIMPLEX,
+                scale,
+                (0, 0, 0),
+                thick + 3,
+                cv2.LINE_AA,
+            )  # outline
+            cv2.putText(
+                img,
+                text,
+                (lx, ly),
+                cv2.FONT_HERSHEY_SIMPLEX,
+                scale,
+                color,
+                thick,
+                cv2.LINE_AA,
+            )
+
+
 def draw_coord_system(
     frame,
     detections,
@@ -157,6 +214,7 @@ def draw_coord_system(
     )
     cv2.circle(img, (int(ref2[0]), int(ref2[1])), 4, ref_color, -1)
     cv2.circle(img, abs_center, 12, (255, 255, 0), -1)
+    _draw_protractor(img, abs_center, radius=300)
     cv2.putText(
         img,
         "ref2",
