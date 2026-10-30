@@ -1,0 +1,113 @@
+FLAG: missing jump indicator,  FLAG: velocity flagged: mininum speed not met - vx: 0.0, vy: 0.0, speed: 0.0,  For observation number: 0 
+FLAG: missing jump indicator,  FLAG: velocity flagged: mininum speed not met - vx: -0.05061418059134179, vy: 0.005702336156175996, speed: 0.0509343883301939,  For observation number: 1 
+FLAG: missing jump indicator,  For observation number: 2 
+FLAG: missing jump indicator,  For observation number: 3 
+FLAG: missing jump indicator,  For observation number: 4 
+FLAG: missing jump indicator,  For observation number: 5 
+For observation number: 6 
+For observation number: 7 
+For observation number: 8 
+FLAG: missing boost indicator,  For observation number: 9 
+FLAG: missing boost indicator,  For observation number: 10 
+FLAG: missing boost indicator,  For observation number: 11 
+FLAG: missing boost indicator,  For observation number: 12 
+For observation number: 13 
+For observation number: 14 
+FLAG: missing jump indicator,  For observation number: 15 
+FLAG: missing jump indicator,  For observation number: 16 
+FLAG: missing jump indicator,  For observation number: 17 
+FLAG: missing jump indicator,  For observation number: 18 
+FLAG: missing jump indicator,  For observation number: 19 
+FLAG: cars=1 (expected 2),  For observation number: 20 
+FLAG: cars=1 (expected 2),  FLAG: missing jump indicator,  For observation number: 21 
+For observation number: 22 
+For observation number: 23 
+For observation number: 24 
+For observation number: 25 
+For observation number: 26 
+For observation number: 27 
+For observation number: 28 
+For observation number: 29 
+For observation number: 30 
+For observation number: 31 
+For observation number: 32 
+For observation number: 33 
+For observation number: 34 
+For observation number: 35 
+For observation number: 36 
+For observation number: 37 
+For observation number: 38 
+For observation number: 39 
+For observation number: 40 
+For observation number: 41 
+For observation number: 42 
+For observation number: 43 
+FLAG: cars=1 (expected 2),  For observation number: 44 
+FLAG: cars=1 (expected 2),  For observation number: 45 
+For observation number: 46 
+For observation number: 47 
+For observation number: 48 
+For observation number: 49 
+For observation number: 50 
+For observation number: 51 
+For observation number: 52 
+For observation number: 53 
+For observation number: 54 
+For observation number: 55 
+FLAG: missing jump indicator,  For observation number: 56 
+FLAG: missing jump indicator,  For observation number: 57 
+FLAG: missing jump indicator,  For observation number: 58 
+FLAG: missing jump indicator,  For observation number: 59 
+FLAG: missing jump indicator,  For observation number: 60 
+FLAG: missing jump indicator,  For observation number: 61 
+FLAG: missing jump indicator,  For observation number: 62 
+FLAG: missing jump indicator,  For observation number: 63 
+FLAG: missing jump indicator,  For observation number: 64 
+FLAG: missing jump indicator,  For observation number: 65 
+FLAG: missing jump indicator,  For observation number: 66 
+FLAG: missing jump indicator,  For observation number: 67 
+FLAG: missing jump indicator,  For observation number: 68 
+FLAG: missing jump indicator,  For observation number: 69 
+FLAG: missing jump indicator,  For observation number: 70 
+FLAG: missing jump indicator,  For observation number: 71 
+FLAG: missing jump indicator,  For observation number: 72 
+FLAG: missing jump indicator,  For observation number: 73 
+FLAG: missing jump indicator,  For observation number: 74 
+FLAG: missing jump indicator,  For observation number: 75 
+FLAG: missing jump indicator,  FLAG: balls=2 (expected 1),  For observation number: 76 
+For observation number: 77 
+FLAG: missing jump indicator,  For observation number: 78 
+For observation number: 79 
+FLAG: joysticks=0 (expected 1),  FLAG: absurd velocity 65 on goal,  For observation number: 80 
+FLAG: missing jump indicator,  FLAG: absurd velocity 59 on goal,  For observation number: 81 
+FLAG: cars=3 (expected 2),  FLAG: missing jump indicator,  FLAG: absurd velocity 52 on goal,  For observation number: 82 
+For observation number: 83 
+FLAG: missing boost indicator,  For observation number: 84 
+For observation number: 85 
+FLAG: missing boost indicator,  For observation number: 86 
+FLAG: missing jump indicator,  For observation number: 87 
+For observation number: 88 
+For observation number: 89 
+For observation number: 90 
+For observation number: 91 
+For observation number: 92 
+For observation number: 93 
+For observation number: 94 
+For observation number: 95 
+For observation number: 96 
+FLAG: joysticks=0 (expected 1),  For observation number: 97 
+FLAG: joysticks=0 (expected 1),  For observation number: 98 
+FLAG: joysticks=0 (expected 1),  For observation number: 99 
+For observation number: 100 
+For observation number: 101 
+For observation number: 102 
+For observation number: 103 
+For observation number: 104 
+For observation number: 105 
+For observation number: 106 
+For observation number: 107 
+For observation number: 108 
+For observation number: 109 
+For observation number: 110 
+For observation number: 111 
+FLAG: cars=1 (expected 2),  FLAG: balls=0 (expected 1),  For observation number: 112 
