@@ -1,0 +1,59 @@
+FLAG: missing jump indicator,  For observation number: 2 
+FLAG: missing jump indicator,  For observation number: 3 
+For observation number: 4 
+For observation number: 5 
+FLAG: absurd velocity 134 on goal,  For observation number: 6 
+FLAG: absurd velocity 121 on goal,  For observation number: 7 
+FLAG: missing boost indicator,  FLAG: absurd velocity 108 on goal,  For observation number: 8 
+FLAG: missing boost indicator,  FLAG: absurd velocity 97 on goal,  For observation number: 9 
+FLAG: missing boost indicator,  FLAG: absurd velocity 87 on goal,  For observation number: 10 
+FLAG: missing boost indicator,  FLAG: absurd velocity 79 on goal,  For observation number: 11 
+FLAG: missing jump indicator,  FLAG: missing boost indicator,  FLAG: absurd velocity 71 on goal,  For observation number: 12 
+FLAG: missing jump indicator,  FLAG: absurd velocity 63 on goal,  For observation number: 13 
+FLAG: absurd velocity 59 on goal,  For observation number: 14 
+FLAG: missing boost indicator,  FLAG: absurd velocity 53 on goal,  For observation number: 15 
+FLAG: missing boost indicator,  For observation number: 16 
+FLAG: missing boost indicator,  For observation number: 17 
+For observation number: 18 
+For observation number: 19 
+FLAG: cars=1 (expected 2),  FLAG: missing jump indicator,  For observation number: 20 
+FLAG: cars=1 (expected 2),  For observation number: 21 
+FLAG: cars=1 (expected 2),  For observation number: 22 
+FLAG: cars=0 (expected 2),  For observation number: 23 
+FLAG: cars=1 (expected 2),  FLAG: velocity flagged: mininum speed not met - vx: 0.0, vy: 0.0, speed: 0.0,  For observation number: 24 
+For observation number: 25 
+For observation number: 26 
+For observation number: 27 
+For observation number: 28 
+For observation number: 29 
+For observation number: 30 
+For observation number: 31 
+For observation number: 32 
+For observation number: 33 
+For observation number: 34 
+For observation number: 35 
+For observation number: 36 
+For observation number: 37 
+For observation number: 38 
+For observation number: 39 
+For observation number: 40 
+For observation number: 41 
+FLAG: joysticks=0 (expected 1),  For observation number: 42 
+FLAG: joysticks=0 (expected 1),  For observation number: 43 
+FLAG: joysticks=0 (expected 1),  For observation number: 44 
+FLAG: joysticks=0 (expected 1),  For observation number: 45 
+FLAG: joysticks=0 (expected 1),  For observation number: 46 
+FLAG: joysticks=0 (expected 1),  For observation number: 47 
+FLAG: joysticks=0 (expected 1),  For observation number: 48 
+FLAG: joysticks=0 (expected 1),  For observation number: 49 
+FLAG: joysticks=0 (expected 1),  For observation number: 50 
+FLAG: joysticks=0 (expected 1),  For observation number: 51 
+FLAG: joysticks=0 (expected 1),  For observation number: 52 
+FLAG: joysticks=0 (expected 1),  For observation number: 53 
+FLAG: joysticks=0 (expected 1),  For observation number: 54 
+FLAG: joysticks=0 (expected 1),  For observation number: 55 
+For observation number: 56 
+FLAG: joysticks=0 (expected 1),  For observation number: 57 
+FLAG: joysticks=0 (expected 1),  For observation number: 58 
+FLAG: joysticks=0 (expected 1),  For observation number: 59 
+FLAG: joysticks=0 (expected 1),  For observation number: 60 
