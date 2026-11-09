@@ -1,13 +1,14 @@
+FLAG: velocity flagged: mininum speed not met - vx: 0.13238307335896496, vy: -0.028870118110199308, speed: 0.1354945084926395,  For observation number: 5 
 For observation number: 6 
 For observation number: 7 
 For observation number: 8 
 For observation number: 9 
 For observation number: 10 
-For observation number: 11 
+FLAG: missing boost indicator,  For observation number: 11 
 FLAG: missing boost indicator,  For observation number: 12 
 FLAG: missing boost indicator,  For observation number: 13 
 FLAG: missing boost indicator,  For observation number: 14 
-FLAG: missing jump indicator,  FLAG: missing boost indicator,  For observation number: 15 
+FLAG: missing boost indicator,  For observation number: 15 
 FLAG: missing boost indicator,  For observation number: 16 
 For observation number: 17 
 For observation number: 18 
@@ -71,5 +72,5 @@ FLAG: balls=2 (expected 1),  For observation number: 75
 FLAG: balls=2 (expected 1),  For observation number: 76 
 FLAG: balls=2 (expected 1),  For observation number: 77 
 FLAG: cars=3 (expected 2),  FLAG: balls=2 (expected 1),  For observation number: 78 
-FLAG: balls=2 (expected 1),  For observation number: 79 
+FLAG: cars=1 (expected 2),  FLAG: balls=2 (expected 1),  For observation number: 79 
 For observation number: 80 

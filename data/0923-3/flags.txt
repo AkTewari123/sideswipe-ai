@@ -25,7 +25,7 @@ FLAG: missing boost indicator,  For observation number: 23
 FLAG: missing boost indicator,  For observation number: 24 
 FLAG: missing boost indicator,  For observation number: 25 
 FLAG: joysticks=0 (expected 1),  For observation number: 26 
-FLAG: cars=1 (expected 2),  FLAG: joysticks=0 (expected 1),  For observation number: 27 
+FLAG: joysticks=0 (expected 1),  For observation number: 27 
 FLAG: joysticks=0 (expected 1),  For observation number: 28 
 FLAG: joysticks=0 (expected 1),  For observation number: 29 
 FLAG: joysticks=0 (expected 1),  For observation number: 30 
@@ -33,7 +33,7 @@ For observation number: 31
 For observation number: 32 
 For observation number: 33 
 For observation number: 34 
-For observation number: 35 
+FLAG: balls=2 (expected 1),  For observation number: 35 
 For observation number: 36 
 FLAG: balls=2 (expected 1),  For observation number: 37 
 FLAG: balls=2 (expected 1),  For observation number: 38 
@@ -41,7 +41,7 @@ FLAG: balls=2 (expected 1),  For observation number: 39
 FLAG: balls=2 (expected 1),  For observation number: 40 
 FLAG: balls=2 (expected 1),  For observation number: 41 
 FLAG: balls=2 (expected 1),  For observation number: 42 
-FLAG: balls=2 (expected 1),  For observation number: 43 
+For observation number: 43 
 For observation number: 44 
 FLAG: cars=1 (expected 2),  For observation number: 45 
 FLAG: cars=1 (expected 2),  FLAG: balls=2 (expected 1),  For observation number: 46 
@@ -53,7 +53,7 @@ FLAG: balls=2 (expected 1),  For observation number: 51
 For observation number: 52 
 FLAG: balls=2 (expected 1),  For observation number: 53 
 For observation number: 54 
-FLAG: balls=2 (expected 1),  For observation number: 55 
+For observation number: 55 
 For observation number: 56 
 FLAG: missing jump indicator,  FLAG: balls=2 (expected 1),  For observation number: 57 
 FLAG: missing jump indicator,  For observation number: 58 
@@ -65,7 +65,7 @@ FLAG: balls=2 (expected 1),  For observation number: 63
 FLAG: balls=2 (expected 1),  For observation number: 64 
 For observation number: 65 
 FLAG: balls=2 (expected 1),  For observation number: 66 
-For observation number: 67 
+FLAG: balls=2 (expected 1),  For observation number: 67 
 FLAG: cars=3 (expected 2),  FLAG: balls=2 (expected 1),  For observation number: 68 
 FLAG: balls=2 (expected 1),  For observation number: 69 
 FLAG: balls=2 (expected 1),  For observation number: 70 
@@ -81,15 +81,15 @@ FLAG: balls=2 (expected 1),  For observation number: 79
 FLAG: balls=2 (expected 1),  For observation number: 80 
 FLAG: balls=2 (expected 1),  For observation number: 81 
 FLAG: balls=2 (expected 1),  For observation number: 82 
-FLAG: cars=3 (expected 2),  FLAG: balls=2 (expected 1),  For observation number: 83 
+FLAG: cars=4 (expected 2),  FLAG: balls=2 (expected 1),  For observation number: 83 
 FLAG: cars=3 (expected 2),  FLAG: balls=2 (expected 1),  For observation number: 84 
 FLAG: cars=3 (expected 2),  FLAG: balls=2 (expected 1),  For observation number: 85 
 FLAG: balls=2 (expected 1),  For observation number: 86 
 For observation number: 87 
-FLAG: velocity flagged: mininum speed not met - vx: -0.18115041575651047, vy: -0.07644915659050958, speed: 0.19662132812123118,  For observation number: 88 
+FLAG: velocity flagged: mininum speed not met - vx: -0.15730149473740862, vy: -0.006430335184161487, speed: 0.15743287286079632,  For observation number: 88 
 FLAG: balls=2 (expected 1),  For observation number: 89 
 FLAG: balls=2 (expected 1),  For observation number: 90 
-FLAG: balls=2 (expected 1),  For observation number: 91 
+FLAG: joysticks=0 (expected 1),  FLAG: balls=2 (expected 1),  For observation number: 91 
 FLAG: balls=2 (expected 1),  For observation number: 92 
 FLAG: balls=2 (expected 1),  For observation number: 93 
 FLAG: balls=2 (expected 1),  For observation number: 94 
@@ -101,7 +101,7 @@ FLAG: balls=2 (expected 1),  For observation number: 99
 FLAG: balls=2 (expected 1),  For observation number: 100 
 FLAG: joysticks=0 (expected 1),  FLAG: balls=2 (expected 1),  For observation number: 101 
 FLAG: joysticks=0 (expected 1),  FLAG: balls=2 (expected 1),  For observation number: 102 
-FLAG: joysticks=0 (expected 1),  FLAG: balls=2 (expected 1),  For observation number: 103 
+FLAG: balls=2 (expected 1),  For observation number: 103 
 FLAG: balls=2 (expected 1),  For observation number: 104 
 FLAG: balls=2 (expected 1),  For observation number: 105 
 FLAG: balls=2 (expected 1),  For observation number: 106 

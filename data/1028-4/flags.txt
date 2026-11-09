@@ -21,7 +21,7 @@ FLAG: missing boost indicator,  For observation number: 19
 FLAG: missing boost indicator,  For observation number: 20 
 For observation number: 21 
 FLAG: missing jump indicator,  For observation number: 22 
-For observation number: 23 
+FLAG: cars=1 (expected 2),  FLAG: missing jump indicator,  FLAG: balls=2 (expected 1),  For observation number: 23 
 FLAG: cars=1 (expected 2),  For observation number: 24 
 FLAG: cars=1 (expected 2),  For observation number: 25 
 For observation number: 26 
@@ -33,7 +33,7 @@ For observation number: 31
 For observation number: 32 
 For observation number: 33 
 FLAG: cars=1 (expected 2),  For observation number: 34 
-For observation number: 35 
+FLAG: missing jump indicator,  For observation number: 35 
 FLAG: missing jump indicator,  For observation number: 36 
 FLAG: missing jump indicator,  FLAG: missing boost indicator,  For observation number: 37 
 FLAG: missing jump indicator,  FLAG: missing boost indicator,  For observation number: 38 
@@ -41,7 +41,7 @@ FLAG: missing jump indicator,  For observation number: 39
 FLAG: missing jump indicator,  FLAG: missing boost indicator,  For observation number: 40 
 FLAG: missing jump indicator,  For observation number: 41 
 FLAG: missing jump indicator,  For observation number: 42 
-FLAG: missing jump indicator,  For observation number: 43 
+For observation number: 43 
 FLAG: missing boost indicator,  For observation number: 44 
 For observation number: 45 
 FLAG: missing boost indicator,  For observation number: 46 

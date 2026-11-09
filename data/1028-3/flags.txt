@@ -1,4 +1,3 @@
-FLAG: missing jump indicator,  FLAG: velocity flagged: mininum speed not met - vx: 0.0, vy: 0.0, speed: 0.0,  For observation number: 0 
 FLAG: missing jump indicator,  For observation number: 1 
 FLAG: missing jump indicator,  For observation number: 2 
 For observation number: 3 
@@ -13,7 +12,7 @@ FLAG: missing jump indicator,  FLAG: missing boost indicator,  For observation n
 FLAG: missing jump indicator,  For observation number: 12 
 FLAG: missing boost indicator,  For observation number: 13 
 FLAG: missing boost indicator,  For observation number: 14 
-FLAG: missing boost indicator,  For observation number: 15 
+For observation number: 15 
 FLAG: missing boost indicator,  For observation number: 16 
 FLAG: missing boost indicator,  For observation number: 17 
 FLAG: missing boost indicator,  For observation number: 18 
@@ -21,23 +20,23 @@ FLAG: missing boost indicator,  For observation number: 19
 FLAG: missing boost indicator,  For observation number: 20 
 FLAG: cars=4 (expected 2),  For observation number: 21 
 FLAG: missing boost indicator,  For observation number: 22 
-For observation number: 23 
+FLAG: missing boost indicator,  For observation number: 23 
 FLAG: missing jump indicator,  FLAG: missing boost indicator,  For observation number: 24 
 FLAG: cars=1 (expected 2),  FLAG: missing jump indicator,  FLAG: joysticks=0 (expected 1),  FLAG: missing boost indicator,  For observation number: 25 
 FLAG: joysticks=0 (expected 1),  FLAG: missing boost indicator,  For observation number: 26 
-FLAG: missing jump indicator,  FLAG: missing boost indicator,  For observation number: 27 
+FLAG: missing boost indicator,  FLAG: velocity flagged: mininum speed not met - vx: 0.1197336014656031, vy: 0.018362411845069964, speed: 0.12113345321872006,  For observation number: 27 
 FLAG: cars=3 (expected 2),  FLAG: missing boost indicator,  For observation number: 28 
 FLAG: missing boost indicator,  FLAG: balls=0 (expected 1),  For observation number: 29 
-FLAG: missing boost indicator,  For observation number: 30 
+FLAG: missing boost indicator,  FLAG: velocity flagged: mininum speed not met - vx: 0.1359296242643785, vy: 0.08046764399879679, speed: 0.15796171841105114,  For observation number: 30 
 FLAG: cars=3 (expected 2),  FLAG: missing boost indicator,  For observation number: 31 
 FLAG: missing boost indicator,  For observation number: 32 
 FLAG: missing boost indicator,  For observation number: 33 
 FLAG: cars=1 (expected 2),  For observation number: 34 
-FLAG: cars=1 (expected 2),  For observation number: 35 
+FLAG: missing boost indicator,  For observation number: 35 
 For observation number: 36 
 For observation number: 37 
 FLAG: missing boost indicator,  For observation number: 38 
-FLAG: missing boost indicator,  For observation number: 39 
+FLAG: cars=3 (expected 2),  FLAG: missing boost indicator,  For observation number: 39 
 FLAG: cars=3 (expected 2),  FLAG: missing boost indicator,  For observation number: 40 
 FLAG: missing boost indicator,  For observation number: 41 
 FLAG: missing boost indicator,  For observation number: 42 
@@ -45,7 +44,7 @@ FLAG: missing boost indicator,  For observation number: 43
 For observation number: 44 
 FLAG: missing jump indicator,  For observation number: 45 
 For observation number: 46 
-For observation number: 47 
+FLAG: missing boost indicator,  For observation number: 47 
 FLAG: missing jump indicator,  FLAG: missing boost indicator,  For observation number: 48 
 FLAG: missing boost indicator,  For observation number: 49 
 FLAG: missing boost indicator,  For observation number: 50 
@@ -53,7 +52,7 @@ FLAG: missing boost indicator,  For observation number: 51
 For observation number: 52 
 For observation number: 53 
 For observation number: 54 
-FLAG: missing boost indicator,  For observation number: 55 
+For observation number: 55 
 For observation number: 56 
 For observation number: 57 
 FLAG: joysticks=0 (expected 1),  For observation number: 58 
@@ -65,7 +64,7 @@ FLAG: missing boost indicator,  For observation number: 63
 FLAG: missing boost indicator,  For observation number: 64 
 For observation number: 65 
 For observation number: 66 
-For observation number: 67 
+FLAG: joysticks=0 (expected 1),  FLAG: missing boost indicator,  For observation number: 67 
 FLAG: joysticks=0 (expected 1),  FLAG: missing boost indicator,  For observation number: 68 
 For observation number: 69 
 For observation number: 70 
@@ -149,11 +148,11 @@ For observation number: 147
 For observation number: 148 
 For observation number: 149 
 For observation number: 150 
-For observation number: 151 
+FLAG: missing jump indicator,  For observation number: 151 
 FLAG: missing jump indicator,  For observation number: 152 
 FLAG: joysticks=0 (expected 1),  For observation number: 153 
 FLAG: cars=1 (expected 2),  FLAG: joysticks=0 (expected 1),  For observation number: 154 
-FLAG: cars=1 (expected 2),  FLAG: joysticks=0 (expected 1),  For observation number: 155 
+For observation number: 155 
 For observation number: 156 
 For observation number: 157 
 For observation number: 158 
@@ -193,8 +192,8 @@ For observation number: 191
 For observation number: 192 
 For observation number: 193 
 For observation number: 194 
-For observation number: 195 
-FLAG: velocity flagged: mininum speed not met - vx: 0.03599259906604202, vy: -0.053689939912495266, speed: 0.06463804479821618,  For observation number: 196 
+FLAG: joysticks=0 (expected 1),  For observation number: 195 
+For observation number: 196 
 For observation number: 197 
 For observation number: 198 
 For observation number: 199 
@@ -205,7 +204,7 @@ For observation number: 203
 For observation number: 204 
 For observation number: 205 
 FLAG: cars=1 (expected 2),  For observation number: 206 
-For observation number: 207 
+FLAG: cars=1 (expected 2),  For observation number: 207 
 FLAG: cars=1 (expected 2),  For observation number: 208 
 FLAG: cars=1 (expected 2),  For observation number: 209 
 FLAG: cars=1 (expected 2),  For observation number: 210 
@@ -221,8 +220,7 @@ For observation number: 219
 For observation number: 220 
 For observation number: 221 
 FLAG: joysticks=0 (expected 1),  For observation number: 222 
-FLAG: missing jump indicator,  FLAG: joysticks=0 (expected 1),  FLAG: absurd velocity 55 on boost_indicator,  For observation number: 223 
+FLAG: missing jump indicator,  FLAG: joysticks=0 (expected 1),  For observation number: 223 
 FLAG: missing jump indicator,  FLAG: joysticks=0 (expected 1),  For observation number: 224 
 FLAG: joysticks=0 (expected 1),  For observation number: 225 
 FLAG: missing jump indicator,  FLAG: joysticks=0 (expected 1),  For observation number: 226 
-FLAG: missing jump indicator,  FLAG: joysticks=0 (expected 1),  For observation number: 227 
